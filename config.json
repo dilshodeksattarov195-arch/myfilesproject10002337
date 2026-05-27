@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsdonnect",
+        "uuid": 15489636,
+        "checksum": "d8fy"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
